@@ -1,0 +1,125 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #1F4690;
+    font-size: 2rem;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #1F4690;
+    font-size: 1.5rem;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    border: dotted rgb(40, 37, 37) 6px ;
+    border-bottom: none;
+    width: 13%;
+    margin: 100px auto;
+}
+
+.top{
+    background-color: #0F3D3E;
+    padding: 40px;
+}
+
+.intro{
+    margin-top: 70px;
+}
+.intro-image{
+    width: 35%;
+    margin-left: -19px;
+}
+
+.intro h1{
+    color: white;
+}
+
+.intro h2{
+    color: white;
+}
+
+.top-container h1{
+    color: aliceblue;
+}
+
+.top-container h2{
+    color: aliceblue;
+}
+
+
+.middle{
+    padding-top: 10px;
+    margin: 50px 0;
+}
+
+.profile-img{
+    width: 30%;
+    margin-bottom: 11px;
+}
+
+.profile-tag{
+    margin: auto;
+}
+
+.skill-row{
+    text-align: left;
+    margin: 100px auto;
+}
+
+.love-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.cairing-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn{
+    background-color: #11cdd4;
+    font-size: 20px;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.btn:hover{
+    background-color:  #3cb0fd;
+}
+
+.bottom-container{
+    background-color: #4392a8;
+    padding: 50px 0 20px;
+}
+
+.footer-link{
+    padding: 0 20px;
+    color: white;
+}
+
